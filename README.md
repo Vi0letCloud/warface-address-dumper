@@ -2,10 +2,7 @@
 
 ![Output Image](https://i.imgur.com/y5q1Iet.png)
 
-<details>
-  <summary>
-    Output:
-  </summary>
+```
  > initialization started
  > scanning started
  
@@ -125,7 +122,7 @@
  >       j_Sleep: 00000001400ADD40
  
  > scanning took 2.655607 seconds
-</details>
+ ```
 
 Build with Visual Studio (2019), rename DLL to "ddraw.dll" and put it in your "Warface\Bin64Release\" folder then start the game.
 
